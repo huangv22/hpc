@@ -1,7 +1,7 @@
 # Setting up the work environment and download the file
 #-------------------------------
 
-setwd("~/Dropbox (Personal)/edu/Coursera/exploratory")
+setwd("~/Dropbox (Personal)/edu/Coursera/exploratory/hpc")
 fileURL <- "http://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip"
 download.file(fileURL, destfile="./data.zip")
 unzip("data.zip")
