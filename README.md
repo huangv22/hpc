@@ -8,8 +8,8 @@ https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumptio
 ## Description: 
  Measurements of electric power consumption in one household with a one-minute sampling rate over a period of almost 4 years. Different electrical quantities and some sub-metering values are available.
 
- # CodeBook
- Steps taken in the ''''project1.R
+# CodeBook:
+ Steps taken in the `project1.R`
  * Set up the environment and download the data
  * Subset the data to 2007-02-01 -> 2007-02-02
  * Convert the data
